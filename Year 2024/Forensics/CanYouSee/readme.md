@@ -18,7 +18,7 @@
 
 5. **Decode the Base64 String**  
 Use the following command in the terminal to decode the string:
-```bash
+
 echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fZDhjMzgxZmR9Cg==" | base64 --decode
 
-6. **You will get the CTF** - **picoCTF{ME74D47A_HIDD3N_d8c381fd}**
+6. **You will get the CTF Flag** 
